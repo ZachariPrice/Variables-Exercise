@@ -1,0 +1,4 @@
+/Users/zachariprice/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net48/VariablesExercise.csproj.AssemblyReference.cache
+/Users/zachariprice/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net48/VariablesExercise.AssemblyInfoInputs.cache
+/Users/zachariprice/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net48/VariablesExercise.AssemblyInfo.cs
+/Users/zachariprice/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net48/VariablesExercise.csproj.CoreCompileInputs.cache

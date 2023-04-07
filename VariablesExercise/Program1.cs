@@ -2,7 +2,7 @@
 {
     public class Program
     {
-        static void Main(string[] args)
+        static string Main(string[] args)
         {
             ///  Declaring and initialize variables
             string name = "Swoosh";
